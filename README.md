@@ -20,7 +20,7 @@
   - [talmud.dev](https://talmud.dev/) (algorithm-based)
   - [books.613m.org](http://books.613m.org) (incomplete)
 - Sites with Tzuras HaDaf images: 
-  - HebrewBooks.org/shas (per-page PDFs). You can also download entire Mesechtos via [this site](http://sifrei.blogspot.com/2012/08/blog-post_16.html).
+  - [HebrewBooks.org/shas] (per-page PDFs). You can also download entire Mesechtos via [this site](http://sifrei.blogspot.com/2012/08/blog-post_16.html).
   - [E-Daf.com](e-daf.com)
   - [DafYomi.org](http://dafyomi.org/) (images come from E-Daf but might be better)  
   - [Daf HaChaim](https://dafhachaim.org/resources/)
