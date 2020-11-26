@@ -3,9 +3,11 @@
 
 **Please feel free to send PRs.**
 
-### Databases of Torah texts
+### Databases of Torah texts / learning environments
 - [Sefaria](https://sefaria.org) [(GH)](https://github.com/sefaria/sefaria-project) -- large collection of texts, plus apps and APIs
 - [Mercava](https://www.themercava.com) -- another large collection of texts and app, plus various tools. Their Shas seems to actually be in Tzuras HaDaf
+- [AlHaTorah.org](https://alhatorah.org/)
+- [HaTanakh.com](http://www.hatanakh.com/) from המכללה האקדמית הרצוג
 - [WikiText / WikiSource](https://he.wikisource.org/)
 - Older similar projects: 
   - [Torat Emet Freeware](http://www.toratemetfreeware.com/)
