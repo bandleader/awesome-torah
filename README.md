@@ -28,15 +28,16 @@
   - [Daf HaChaim](https://dafhachaim.org/resources/)
   - [Mefarshei HaOtzar](https://mefo.otzar.org/) (by Otzar HaChochma -- PAID)
 
-### Other Resources
-- [awesome-jewish-github / YidHub](https://github.com/binyamin/awesome-jewish-github) More Jewish projects -- specifically open source projects on GitHub
-- Daf Yomi resources: 
-  - [Dafyomi Advancement Forum (D.A.F.)](https://www.dafyomi.co.il/) -- tons of resources for each daf
-  - [Shas Illuminated](https://www.shasilluminated.org/)
-  - [Portal HaDaf HaYomi](http://www.daf-yomi.com/) -- includes lots of resources organized by daf, as well as things like a forum
-  - [List of Daf Yomi resources](https://www.dafyomidirectory.org/resources)
-  - [Another list](https://www.dafyomi.org/links.php)
+### Daf Yomi Resources
+- [Dafyomi Advancement Forum (D.A.F.)](https://www.dafyomi.co.il/) -- tons of resources for each daf
+- [Shas Illuminated](https://www.shasilluminated.org/)
+- [Portal HaDaf HaYomi](http://www.daf-yomi.com/) -- includes lots of resources organized by daf, as well as things like a forum
+- [List of Daf Yomi resources](https://www.dafyomidirectory.org/resources)
+- [Another list](https://www.dafyomi.org/links.php)
 
 ### Other Software
 - [Halacha Academy](http://halacha.academy) -- Halacha material in English, including some quizzes
 - [Tikkun.io](Tikkun.io) [(GH)](https://github.com/akivajgordon/tikkun.io) -- digital Tikkun for practicing Krias HaTorah
+
+### Other Resources
+- [awesome-jewish-github / YidHub](https://github.com/binyamin/awesome-jewish-github) List of Jewish-themed projects that are specifically open-source on GitHub
