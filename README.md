@@ -32,6 +32,7 @@
 - [Dafyomi Advancement Forum (D.A.F.)](https://www.dafyomi.co.il/) -- tons of resources for each daf
 - [Shas Illuminated](https://www.shasilluminated.org/)
 - [Portal HaDaf HaYomi](http://www.daf-yomi.com/) -- includes lots of resources organized by daf, as well as things like a forum
+- [דפי חזרה ולימוד](https://daf.tsemach.dev/) ([GH](https://github.com/tsemachh/daf-ai)) -- daily Hebrew review pages per daf (sugya flow, tree view, review questions), AI-generated and checked against the Gemara text
 - [List of Daf Yomi resources](https://www.dafyomidirectory.org/resources)
 - [Another list](https://www.dafyomi.org/links.php)
 
